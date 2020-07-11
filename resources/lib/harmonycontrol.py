@@ -22,7 +22,7 @@ class Main:
     def __init__( self ):
         self._init_vars()
         self.LW = Logger( preamble='[Harmony Hub Control]', logdebug=self.SETTINGS['debug'] )
-        self.LW.log( ['script version %s started' % self.SETTINGS['ADDONVERSION']], xbmc.LOGNOTICE )
+        self.LW.log( ['script version %s started' % self.SETTINGS['ADDONVERSION']], xbmc.LOGINFO )
         self._parse_argv()
         if self.ACTION == 'fromsettings':
             self._mappings_options()
@@ -33,7 +33,7 @@ class Main:
             self._run_activity( activity, cmds )
         else:
             self._pick_activity()
-        self.LW.log( ['script stopped'], xbmc.LOGNOTICE )
+        self.LW.log( ['script stopped'], xbmc.LOGINFO )
 
 
     def _init_vars( self ):
