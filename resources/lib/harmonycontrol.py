@@ -39,7 +39,7 @@ class Main:
     def _init_vars( self ):
         self.SETTINGS = loadSettings()
         self.DIALOG = xbmcgui.Dialog()
-        self.MYHUB = HubControl( self.SETTINGS['hub_ip'], thetimeout=self.SETTINGS['timeout'] )
+        self.MYHUB = HubControl( self.SETTINGS['hub_ip'], thetimeout=self.SETTINGS['timeout'], delay=self.SETTINGS['delay'] )
 
 
     def _get_mappings( self ):

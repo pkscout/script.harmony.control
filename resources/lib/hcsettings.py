@@ -4,6 +4,7 @@ from resources.lib.kodisettings import *
 SETTINGSLIST = [ {'name': 'mappings', 'default': ''},
                  {'name': 'hub_ip', 'default': ''},
                  {'name': 'timeout', 'default': 30},
+                 {'name': 'delay', 'default': 250},
                  {'name': 'harmonyadvanced', 'default': False},
                  {'name': 'use_custom_skin_menu', 'default': True},
                  {'name': 'include_skin_mods', 'default': True},
