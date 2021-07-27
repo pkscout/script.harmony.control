@@ -1,24 +1,25 @@
 # plugin.whereareyou language file
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-07 14:28+0000\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"PO-Revision-Date: 2021-07-27 12:29+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/da_dk/>\n"
 "Language: da_dk\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: Settings Heading
 msgctxt "#32000"
 msgid "General"
-msgstr "Generel"
+msgstr "Generelt"
 
 #: Settings
 msgctxt "#32100"
 msgid "Enable debug logging"
-msgstr "Aktivér fejlfindingslogføring"
+msgstr "Aktiver fejlfindingslogføring"
 
 #: Settings
 msgctxt "#32101"
@@ -33,7 +34,7 @@ msgstr "Harmony hub IP-adresse"
 #: Settings
 msgctxt "#32103"
 msgid "Use custom select menu"
-msgstr ""
+msgstr "Anvend brugerdefineret menu til valg"
 
 #: Settings
 msgctxt "#32104"
