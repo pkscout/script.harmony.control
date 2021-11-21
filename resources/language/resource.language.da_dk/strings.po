@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
-"PO-Revision-Date: 2021-08-22 04:42+0000\n"
+"PO-Revision-Date: 2021-11-21 00:13+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/da_dk/>\n"
 "Language: da_dk\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.9\n"
 
 #: Settings Heading
 msgctxt "#32000"
@@ -24,7 +24,7 @@ msgstr "Aktiver fejlfindingslogføring"
 #: Settings
 msgctxt "#32101"
 msgid "Edit mappings"
-msgstr ""
+msgstr "Rediger mappinger"
 
 #: Settings
 msgctxt "#32102"
@@ -79,7 +79,7 @@ msgstr "Indtast Harmony aktivitet"
 #: Dialog Heading
 msgctxt "#32204"
 msgid "Select mapping"
-msgstr ""
+msgstr "Vælg mapping"
 
 #: Dialog Heading
 msgctxt "#32205"
@@ -89,14 +89,14 @@ msgstr "Vælg tjeneste"
 #: Dialog
 msgctxt "#32300"
 msgid "Add mapping"
-msgstr ""
+msgstr "Tilføj mapping"
 
 #: Dialog
 msgctxt "#32301"
 msgid "Edit mapping"
-msgstr ""
+msgstr "Rediger mapping"
 
 #: Dialog
 msgctxt "#32302"
 msgid "Delete mapping"
-msgstr ""
+msgstr "Slet mapping"
