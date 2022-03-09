@@ -1,14 +1,15 @@
 # plugin.whereareyou language file
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-30 09:59+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"PO-Revision-Date: 2022-03-09 14:05+0000\n"
+"Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/fi_fi/>\n"
 "Language: fi_fi\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: Settings Heading
 msgctxt "#32000"
@@ -18,84 +19,84 @@ msgstr "Yleiset"
 #: Settings
 msgctxt "#32100"
 msgid "Enable debug logging"
-msgstr "Suorituslokin tallennus (debug log)"
+msgstr "Käytä vianselvityslokia"
 
 #: Settings
 msgctxt "#32101"
 msgid "Edit mappings"
-msgstr ""
+msgstr "Muokkaa kartoituksia"
 
 #: Settings
 msgctxt "#32102"
 msgid "Harmony hub IP address"
-msgstr ""
+msgstr "Harmony Hubin IP-osoite"
 
 #: Settings
 msgctxt "#32103"
 msgid "Use custom select menu"
-msgstr ""
+msgstr "Käytä mukautettua valintavalikkoa"
 
 #: Settings
 msgctxt "#32104"
 msgid "Include skin mods"
-msgstr ""
+msgstr "Huomioi ulkoasukohtaiset muokkaukset"
 
 #: Settings
 msgctxt "#32105"
 msgid "Enable advanced Harmony hub control"
-msgstr ""
+msgstr "Käytä edistynyttä Harmony Hub -ohjausta"
 
 #: Settings
 msgctxt "#32106"
 msgid "Timeout (in seconds)"
-msgstr ""
+msgstr "Aikakatkaisu (sekuntia)"
 
 #: Settings
 msgctxt "#32107"
 msgid "Delay between remote commands (in milliseconds)"
-msgstr ""
+msgstr "Viive kauko-ohjaimen komentojen välillä (millisekuntia)"
 
 #: Dialog Heading
 msgctxt "#32200"
 msgid "Select action"
-msgstr ""
+msgstr "Valitse toiminto"
 
 #: Dialog Heading
 msgctxt "#32201"
 msgid "Enter name of action"
-msgstr ""
+msgstr "Syötä toiminnon nimi"
 
 #: Dialog Heading
 msgctxt "#32202"
 msgid "Additional commands to run"
-msgstr ""
+msgstr "Muita suoritettavia komentoja"
 
 #: Dialog Heading
 msgctxt "#32203"
 msgid "Enter Harmony activity"
-msgstr ""
+msgstr "Syötä Harmony-aktiviteetti"
 
 #: Dialog Heading
 msgctxt "#32204"
 msgid "Select mapping"
-msgstr ""
+msgstr "Valitse kartoitus"
 
 #: Dialog Heading
 msgctxt "#32205"
 msgid "Choose service"
-msgstr ""
+msgstr "Valitse palvelu"
 
 #: Dialog
 msgctxt "#32300"
 msgid "Add mapping"
-msgstr ""
+msgstr "Lisää kartoitus"
 
 #: Dialog
 msgctxt "#32301"
 msgid "Edit mapping"
-msgstr ""
+msgstr "Muokkaa kartoistusta"
 
 #: Dialog
 msgctxt "#32302"
 msgid "Delete mapping"
-msgstr ""
+msgstr "Poista kartoistus"
