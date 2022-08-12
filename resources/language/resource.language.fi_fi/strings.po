@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
-"PO-Revision-Date: 2022-03-19 03:13+0000\n"
+"PO-Revision-Date: 2022-08-12 10:14+0000\n"
 "Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
 "Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/fi_fi/>\n"
 "Language: fi_fi\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.13\n"
 
 #: Settings Heading
 msgctxt "#32000"
@@ -34,7 +34,7 @@ msgstr "Harmony Hubin IP-osoite"
 #: Settings
 msgctxt "#32103"
 msgid "Use custom select menu"
-msgstr "Käytä omaa valintavalikkoa"
+msgstr "Käytä mukautettua valintavalikkoa"
 
 #: Settings
 msgctxt "#32104"
@@ -54,7 +54,7 @@ msgstr "Aikakatkaisu (sekuntia)"
 #: Settings
 msgctxt "#32107"
 msgid "Delay between remote commands (in milliseconds)"
-msgstr "Kauko-ohjuskomentojen välinen viive (millisekuntia)"
+msgstr "Ohjauskomentojen välinen viive (millisekuntia)"
 
 #: Dialog Heading
 msgctxt "#32200"
@@ -69,7 +69,7 @@ msgstr "Syötä toiminnon nimi"
 #: Dialog Heading
 msgctxt "#32202"
 msgid "Additional commands to run"
-msgstr "Muita suoritettavia komentoja"
+msgstr "Suoritettavat lisäkomennot"
 
 #: Dialog Heading
 msgctxt "#32203"
@@ -94,9 +94,9 @@ msgstr "Lisää kartoitus"
 #: Dialog
 msgctxt "#32301"
 msgid "Edit mapping"
-msgstr "Muokkaa kartoistusta"
+msgstr "Muokkaa kartoitusta"
 
 #: Dialog
 msgctxt "#32302"
 msgid "Delete mapping"
-msgstr "Poista kartoistus"
+msgstr "Poista kartoitus"
