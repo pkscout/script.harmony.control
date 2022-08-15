@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
-"PO-Revision-Date: 2022-03-27 01:17+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2022-08-15 22:34+0000\n"
+"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/it_it/>\n"
 "Language: it_it\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.13\n"
 
 #: Settings Heading
 msgctxt "#32000"
@@ -19,84 +19,84 @@ msgstr "Generale"
 #: Settings
 msgctxt "#32100"
 msgid "Enable debug logging"
-msgstr "Attiva logging di debug"
+msgstr "Registra eventi di debug"
 
 #: Settings
 msgctxt "#32101"
 msgid "Edit mappings"
-msgstr ""
+msgstr "Modifica mappature"
 
 #: Settings
 msgctxt "#32102"
 msgid "Harmony hub IP address"
-msgstr ""
+msgstr "Indirizzo IP hub Harmony"
 
 #: Settings
 msgctxt "#32103"
 msgid "Use custom select menu"
-msgstr "Usa menu selezione custom"
+msgstr "Usa menu selezione personalizzato"
 
 #: Settings
 msgctxt "#32104"
 msgid "Include skin mods"
-msgstr "Includi modifiche della skin"
+msgstr "Includi mod skin"
 
 #: Settings
 msgctxt "#32105"
 msgid "Enable advanced Harmony hub control"
-msgstr ""
+msgstr "Abilita controllo avanzato hub Harmony"
 
 #: Settings
 msgctxt "#32106"
 msgid "Timeout (in seconds)"
-msgstr ""
+msgstr "Timeout (in secondi)"
 
 #: Settings
 msgctxt "#32107"
 msgid "Delay between remote commands (in milliseconds)"
-msgstr ""
+msgstr "Ritardo tra i comandi remoti (in millisecondi)"
 
 #: Dialog Heading
 msgctxt "#32200"
 msgid "Select action"
-msgstr ""
+msgstr "Seleziona azione"
 
 #: Dialog Heading
 msgctxt "#32201"
 msgid "Enter name of action"
-msgstr ""
+msgstr "Immettere nome azione"
 
 #: Dialog Heading
 msgctxt "#32202"
 msgid "Additional commands to run"
-msgstr ""
+msgstr "Comandi aggiuntivi da eseguire"
 
 #: Dialog Heading
 msgctxt "#32203"
 msgid "Enter Harmony activity"
-msgstr ""
+msgstr "Entra nell'attività Harmony"
 
 #: Dialog Heading
 msgctxt "#32204"
 msgid "Select mapping"
-msgstr ""
+msgstr "Seleziona mappatura"
 
 #: Dialog Heading
 msgctxt "#32205"
 msgid "Choose service"
-msgstr ""
+msgstr "Scegli servizio"
 
 #: Dialog
 msgctxt "#32300"
 msgid "Add mapping"
-msgstr ""
+msgstr "Aggiungi mappatura"
 
 #: Dialog
 msgctxt "#32301"
 msgid "Edit mapping"
-msgstr ""
+msgstr "Modifica mappatura"
 
 #: Dialog
 msgctxt "#32302"
 msgid "Delete mapping"
-msgstr ""
+msgstr "Elimina mappatura"
