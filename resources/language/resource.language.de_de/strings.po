@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
-"PO-Revision-Date: 2021-07-27 12:29+0000\n"
-"Last-Translator: Kai Sommerfeld <kai.sommerfeld@gmx.com>\n"
+"PO-Revision-Date: 2023-02-06 23:15+0000\n"
+"Last-Translator: Demian <Demian@gmx.co.uk>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/de_de/>\n"
 "Language: de_de\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7.2\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: Settings Heading
 msgctxt "#32000"
@@ -19,12 +19,12 @@ msgstr "Allgemein"
 #: Settings
 msgctxt "#32100"
 msgid "Enable debug logging"
-msgstr "Debug-Protokollierung aktivieren"
+msgstr "Debugprotokollierung aktivieren"
 
 #: Settings
 msgctxt "#32101"
 msgid "Edit mappings"
-msgstr "Mappings ändern"
+msgstr "Zuordnungen ändern"
 
 #: Settings
 msgctxt "#32102"
@@ -79,7 +79,7 @@ msgstr "Harmony-Aktivität eingeben"
 #: Dialog Heading
 msgctxt "#32204"
 msgid "Select mapping"
-msgstr "Mapping auswählen"
+msgstr "Zuordnung auswählen"
 
 #: Dialog Heading
 msgctxt "#32205"
@@ -89,14 +89,14 @@ msgstr "Service auswählen"
 #: Dialog
 msgctxt "#32300"
 msgid "Add mapping"
-msgstr "Mapping hinzufügen"
+msgstr "Zuordnung hinzufügen"
 
 #: Dialog
 msgctxt "#32301"
 msgid "Edit mapping"
-msgstr "Mapping bearbeiten"
+msgstr "Zuordnung bearbeiten"
 
 #: Dialog
 msgctxt "#32302"
 msgid "Delete mapping"
-msgstr "Mapping löschen"
+msgstr "Zuordnung löschen"
