@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
-"PO-Revision-Date: 2022-04-08 00:13+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2023-03-08 13:16+0000\n"
+"Last-Translator: José Antonio Alvarado <jalvarado0.eses@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/es_es/>\n"
 "Language: es_es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.2\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: Settings Heading
 msgctxt "#32000"
@@ -24,79 +24,79 @@ msgstr "Habilitar modo depuración"
 #: Settings
 msgctxt "#32101"
 msgid "Edit mappings"
-msgstr ""
+msgstr "Editar asignaciones"
 
 #: Settings
 msgctxt "#32102"
 msgid "Harmony hub IP address"
-msgstr ""
+msgstr "Dirección IP del Harmony hub"
 
 #: Settings
 msgctxt "#32103"
 msgid "Use custom select menu"
-msgstr ""
+msgstr "Usar menú de selección personalizado"
 
 #: Settings
 msgctxt "#32104"
 msgid "Include skin mods"
-msgstr ""
+msgstr "Incluir mods del skin"
 
 #: Settings
 msgctxt "#32105"
 msgid "Enable advanced Harmony hub control"
-msgstr ""
+msgstr "Activar el control avanzado del Harmony hub"
 
 #: Settings
 msgctxt "#32106"
 msgid "Timeout (in seconds)"
-msgstr ""
+msgstr "Tiempo de espera (en segundos)"
 
 #: Settings
 msgctxt "#32107"
 msgid "Delay between remote commands (in milliseconds)"
-msgstr ""
+msgstr "Retardo entre comandos remotos (en milisegundos)"
 
 #: Dialog Heading
 msgctxt "#32200"
 msgid "Select action"
-msgstr ""
+msgstr "Seleccionar acción"
 
 #: Dialog Heading
 msgctxt "#32201"
 msgid "Enter name of action"
-msgstr ""
+msgstr "Introduzca el nombre de la acción"
 
 #: Dialog Heading
 msgctxt "#32202"
 msgid "Additional commands to run"
-msgstr ""
+msgstr "Comandos adicionales para ejecutar"
 
 #: Dialog Heading
 msgctxt "#32203"
 msgid "Enter Harmony activity"
-msgstr ""
+msgstr "Acceder a la actividad Harmony"
 
 #: Dialog Heading
 msgctxt "#32204"
 msgid "Select mapping"
-msgstr ""
+msgstr "Seleccionar mapa"
 
 #: Dialog Heading
 msgctxt "#32205"
 msgid "Choose service"
-msgstr ""
+msgstr "Elegir servicio"
 
 #: Dialog
 msgctxt "#32300"
 msgid "Add mapping"
-msgstr ""
+msgstr "Añadir asignación"
 
 #: Dialog
 msgctxt "#32301"
 msgid "Edit mapping"
-msgstr ""
+msgstr "Editar asignación"
 
 #: Dialog
 msgctxt "#32302"
 msgid "Delete mapping"
-msgstr ""
+msgstr "Borrar asignación"
