@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
-"PO-Revision-Date: 2022-08-15 22:34+0000\n"
+"PO-Revision-Date: 2023-04-26 05:16+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/it_it/>\n"
 "Language: it_it\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: Settings Heading
 msgctxt "#32000"
@@ -64,7 +64,7 @@ msgstr "Seleziona azione"
 #: Dialog Heading
 msgctxt "#32201"
 msgid "Enter name of action"
-msgstr "Immettere nome azione"
+msgstr "Immetti nome dell'azione"
 
 #: Dialog Heading
 msgctxt "#32202"
