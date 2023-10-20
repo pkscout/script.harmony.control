@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
-"PO-Revision-Date: 2023-01-21 23:15+0000\n"
+"PO-Revision-Date: 2023-10-20 11:11+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/et_ee/>\n"
 "Language: et_ee\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.1\n"
+"X-Generator: Weblate 5.0.2\n"
 
 #: Settings Heading
 msgctxt "#32000"
@@ -74,7 +74,7 @@ msgstr "Täiendavad käivitatavad käsud"
 #: Dialog Heading
 msgctxt "#32203"
 msgid "Enter Harmony activity"
-msgstr ""
+msgstr "Sisesta Harmony aktiviteet"
 
 #: Dialog Heading
 msgctxt "#32204"
