@@ -1,19 +1,25 @@
 # plugin.whereareyou language file
 msgid ""
 msgstr ""
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"PO-Revision-Date: 2024-04-17 05:18+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Portuguese (Portugal) <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/pt_PT/>\n"
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: Settings Heading
 msgctxt "#32000"
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 #: Settings
 msgctxt "#32100"
 msgid "Enable debug logging"
-msgstr ""
+msgstr "Ativar registo de depuração"
 
 #: Settings
 msgctxt "#32101"
