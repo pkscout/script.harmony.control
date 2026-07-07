@@ -1,14 +1,15 @@
 # plugin.whereareyou language file
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-30 09:59+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2026-07-07 08:31+0000\n"
+"Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-harmony-control/cs_cz/>\n"
 "Language: cs_cz\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.6\n"
+"X-Generator: Weblate 2026.7\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 
 #: Settings Heading
 msgctxt "#32000"
@@ -18,84 +19,84 @@ msgstr "Obecné"
 #: Settings
 msgctxt "#32100"
 msgid "Enable debug logging"
-msgstr "Povolit protokolování ladění"
+msgstr "Povolit ladicí protokolování"
 
 #: Settings
 msgctxt "#32101"
 msgid "Edit mappings"
-msgstr ""
+msgstr "Upravit mapování"
 
 #: Settings
 msgctxt "#32102"
 msgid "Harmony hub IP address"
-msgstr ""
+msgstr "IP adresa Harmony Hubu"
 
 #: Settings
 msgctxt "#32103"
 msgid "Use custom select menu"
-msgstr ""
+msgstr "Použít vlastní nabídku výběru"
 
 #: Settings
 msgctxt "#32104"
 msgid "Include skin mods"
-msgstr ""
+msgstr "Zahrnout úpravy vzhledu"
 
 #: Settings
 msgctxt "#32105"
 msgid "Enable advanced Harmony hub control"
-msgstr ""
+msgstr "Povolit pokročilé ovládání Harmony Hubu"
 
 #: Settings
 msgctxt "#32106"
 msgid "Timeout (in seconds)"
-msgstr ""
+msgstr "Časový limit (v sekundách)"
 
 #: Settings
 msgctxt "#32107"
 msgid "Delay between remote commands (in milliseconds)"
-msgstr ""
+msgstr "Prodleva mezi příkazy dálkového ovladače (v milisekundách)"
 
 #: Dialog Heading
 msgctxt "#32200"
 msgid "Select action"
-msgstr ""
+msgstr "Vybrat akci"
 
 #: Dialog Heading
 msgctxt "#32201"
 msgid "Enter name of action"
-msgstr ""
+msgstr "Zadejte název akce"
 
 #: Dialog Heading
 msgctxt "#32202"
 msgid "Additional commands to run"
-msgstr ""
+msgstr "Další příkazy ke spuštění"
 
 #: Dialog Heading
 msgctxt "#32203"
 msgid "Enter Harmony activity"
-msgstr ""
+msgstr "Zadejte aktivitu Harmony"
 
 #: Dialog Heading
 msgctxt "#32204"
 msgid "Select mapping"
-msgstr ""
+msgstr "Vybrat mapování"
 
 #: Dialog Heading
 msgctxt "#32205"
 msgid "Choose service"
-msgstr ""
+msgstr "Vybrat službu"
 
 #: Dialog
 msgctxt "#32300"
 msgid "Add mapping"
-msgstr ""
+msgstr "Přidat mapování"
 
 #: Dialog
 msgctxt "#32301"
 msgid "Edit mapping"
-msgstr ""
+msgstr "Upravit mapování"
 
 #: Dialog
 msgctxt "#32302"
 msgid "Delete mapping"
-msgstr ""
+msgstr "Odstranit mapování"
